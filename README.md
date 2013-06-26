@@ -3,7 +3,10 @@ jpeg2theora
 
 jpeg2theora is simple jpeg sequence to theora video encoder that is written in C and licensed under GPLv3
 
-Author: "Dmitry Geurkov" <dmitry_627@mail.ru>
+Author 
+------
+
+    "Dmitry Geurkov" <d.geurkov@gmail.com>
 
 Depends on
 ----------

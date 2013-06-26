@@ -2,7 +2,7 @@
    Copyright (C) 2011 Open IP Cam Project http://openipcam.sf.net
    
    jpeg2theora - jpeg sequence to theora ogv video encoder
-   Author: "Dmitry Geurkov" <dmitry_627@mail.ru>
+   Author: "Dmitry Geurkov" <d.geurkov@gmail.com>
    
    This program is free software; you can redistribute it and/or modify it
    under the terms of the GNU General Public License as published by the
